@@ -122,7 +122,7 @@
         Crea una funzione che crei una tabella nell'elemento con id "tableArea". 
         La tabella avrà 5 elementi e questa struttura: immagine, nome prodotto, quantità, prezzo
      */
- 
+ const table=document.createElement('table')
        const generateTable = function () {}
  
        /* ESERCIZIO 12
